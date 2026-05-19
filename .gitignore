@@ -1,0 +1,8 @@
+# LaTeX 编译产物
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
