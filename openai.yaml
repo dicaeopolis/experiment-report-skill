@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experimental Report Skill"
+  short_description: "Build Overleaf-ready course experimental report projects from finished experiment materials"
+  default_prompt: "Use $experiment-report-skill to first check any included experiment handout for completeness, then turn completed experiment materials into an Overleaf-ready course experimental report package with `main.tex`, defaulting the author line to `武汉大学国家网络安全学院 李琰 2024302183007` unless I specify another value, and keep the writing teacher-facing, direct, and free of internal workflow artifacts or meta commentary."
